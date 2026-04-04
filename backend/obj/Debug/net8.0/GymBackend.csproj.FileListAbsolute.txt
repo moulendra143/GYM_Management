@@ -448,3 +448,4 @@ C:\Users\Rajendra\Downloads\GYM_Management-main (1)\GYM_Management-main\backend\
 C:\Users\Rajendra\Downloads\GYM_Management-main (1)\GYM_Management-main\backend\obj\Debug\net8.0\GymBackend.genruntimeconfig.cache
 C:\Users\Rajendra\Downloads\GYM_Management-main (1)\GYM_Management-main\backend\obj\Debug\net8.0\ref\GymBackend.dll
 C:\Users\Rajendra\Downloads\GYM_Management-main (1)\GYM_Management-main\backend\bin\Debug\net8.0\tmp_reminder_body.json
+C:\Users\Rajendra\Downloads\GYM_Management-main (1)\GYM_Management-main\backend\obj\Debug\net8.0\GymBackend.sourcelink.json
